@@ -105,9 +105,13 @@ In Julia % is the remainder operator, not the modulus as in other languages, lik
 e.g.
 
 julia> -57 % 10
+
 -7
 
+
+
 julia> mod(-57, 10)
+
 3
 
 
